@@ -14,13 +14,13 @@ If you'd like to run the docs locally, follow these instructions.
 
 Setup your local python 3 environment, e.g. with [Miniconda](https://docs.conda.io/en/latest/miniconda.html).
 
-Install the python libraries:
+**Install the python libraries:**
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Run the docs locally:
+**Run the docs locally:**
 
 ```bash
 mkdocs serve
